@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 456
+=======
+123
+>>>>>>> feature123
 First change.
 Add the second line.
 3rd change.
